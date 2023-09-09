@@ -1,4 +1,4 @@
 # demo
 this is git demo
 <br>
-Auther-Sonu sharma
+Auther-Sonu sharma(developer)
